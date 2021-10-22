@@ -30,5 +30,7 @@
 	<necessite nom="diogene_licence" compatibilite="[1.2.0;[" />
 	<necessite nom="crayons" compatibilite="[1.26.11;[" />
 	<necessite nom="photoswipe" compatibilite="[0.6.1;[" />
+	<necessite nom="facteur" compatibilite="[4.1.1;[" />
+	<necessite nom="notifications" compatibilite="[3.6.12;[" />
 
 </paquet>
