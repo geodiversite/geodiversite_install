@@ -36,5 +36,8 @@
 	<necessite nom="compositions" compatibilite="[3.9.3;[" />
 	<!-- modules complémentaires pour les albums & balades -->
 	<necessite nom="geol_balades" compatibilite="[2.1.0;[" />
+	<!-- optionnels mais peuvent servir -->
+	<necessite nom="opensearch" compatibilite="[0.2.4;[" />
+	<necessite nom="socialtags" compatibilite="[3.0.0;[" />
 
 </paquet>
