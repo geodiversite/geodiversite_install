@@ -32,5 +32,7 @@
 	<necessite nom="photoswipe" compatibilite="[0.6.1;[" />
 	<necessite nom="facteur" compatibilite="[4.1.1;[" />
 	<necessite nom="notifications" compatibilite="[3.6.12;[" />
+	<necessite nom="centre_image" compatibilite="[2.1.2;[" />
+	<necessite nom="compositions" compatibilite="[3.9.3;[" />
 
 </paquet>
