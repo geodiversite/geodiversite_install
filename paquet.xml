@@ -1,9 +1,9 @@
 <paquet
 	prefix="geol_install"
 	categorie="outil"
-	version="1.4.0"
+	version="1.4.1"
 	etat="stable"
-	compatibilite="[3.2.0;4.2.*]"
+	compatibilite="[3.2.0;4.*]"
 	logo="images/geol_install.png"
 >	
 
