@@ -21,8 +21,6 @@
 	<necessite nom="spipicious" compatibilite="[2.0.0;[" />
 	<necessite nom="licence" compatibilite="[0.9.1;[" />
 	<necessite nom="fulltext" compatibilite="[0.7.0;[" />
-	<!-- les classiques -->
-	<necessite nom="nospam" compatibilite="[1.5.11;[" />
 	<!-- plugins utiles mais pas nécessités par geol -->
 	<necessite nom="crayons" compatibilite="[1.26.11;[" />
 	<necessite nom="photoswipe" compatibilite="[0.6.1;[" />
