@@ -23,7 +23,6 @@
 	<necessite nom="fulltext" compatibilite="[0.7.0;[" />
 	<!-- les classiques -->
 	<necessite nom="nospam" compatibilite="[1.5.11;[" />
-	<necessite nom="palette" compatibilite="[3.0.4;[" />
 	<!-- plugins utiles mais pas nécessités par geol -->
 	<necessite nom="crayons" compatibilite="[1.26.11;[" />
 	<necessite nom="photoswipe" compatibilite="[0.6.1;[" />
