@@ -24,7 +24,6 @@
 	<!-- plugins utiles mais pas nécessités par geol -->
 	<necessite nom="crayons" compatibilite="[1.26.11;[" />
 	<necessite nom="photoswipe" compatibilite="[0.6.1;[" />
-	<necessite nom="facteur" compatibilite="[4.1.1;[" />
 	<necessite nom="notifications" compatibilite="[3.6.12;[" />
 	<necessite nom="compositions" compatibilite="[3.9.3;[" />
 	<!-- modules complémentaires pour les albums & balades -->
